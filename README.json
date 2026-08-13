@@ -1,0 +1,441 @@
+{
+  "items": [
+    {
+      "description": "A curated list of tools that will help you when working with or building on-top of Bigtable.",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Go",
+          "description": "Official implementation of the Google Cloud Bigtable Go client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T18:52:26Z",
+            "owner": "googleapis",
+            "repo": "google-cloud-go",
+            "stars": 4493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#",
+          "description": "Official implementation of the Google Cloud Bigtable .NET client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T18:46:52Z",
+            "owner": "googleapis",
+            "repo": "google-cloud-dotnet",
+            "stars": 1090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C++",
+          "description": "Official implementation of the Google Cloud Bigtable C++ client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T19:54:21Z",
+            "owner": "googleapis",
+            "repo": "google-cloud-cpp",
+            "stars": 657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HBase Java",
+          "description": "Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T16:16:49Z",
+            "owner": "googleapis",
+            "repo": "java-bigtable-hbase",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node.js",
+          "description": "Official implementation of the Google Cloud Bigtable Node.js client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T16:19:10Z",
+            "owner": "googleapis",
+            "repo": "nodejs-bigtable",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java",
+          "description": "Official implementation of the Google Cloud Bigtable Java client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-05-08T18:20:49Z",
+            "owner": "googleapis",
+            "repo": "java-bigtable",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python",
+          "description": "Official implementation of the Google Cloud Bigtable python client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-04-01T00:00:31Z",
+            "owner": "googleapis",
+            "repo": "python-bigtable",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HappyBase",
+          "description": "Official client which uses a HappyBase emulation layer which uses Bigtable as the underlying storage layer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-06-19T03:19:38Z",
+            "owner": "googleapis",
+            "repo": "google-cloud-python-happybase",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": "Official implementation of the Google Cloud Bigtable PHP client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-10T16:48:10Z",
+            "owner": "googleapis",
+            "repo": "google-cloud-php-bigtable",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Official Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Rust Bigtable",
+          "description": "Rust library for working with Google Bigtable Data API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-12-09T23:26:39Z",
+            "owner": "durch",
+            "repo": "rust-bigtable",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncBigtable",
+          "description": "Implementation of AsyncHBase but on top of Google's Cloud Bigtable service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-07-29T21:41:12Z",
+            "owner": "OpenTSDB",
+            "repo": "asyncbigtable",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Other Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spotify Docker Bigtable",
+          "description": "Docker container with an in memory implementation of Google Cloud Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-02-11T00:33:21Z",
+            "owner": "spotify",
+            "repo": "docker-bigtable",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify Bigtable Emulator",
+          "description": "In memory Go implementation of Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-19T11:44:55Z",
+            "owner": "Shopify",
+            "repo": "bigtable-emulator",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LittleTable",
+          "description": "In-memory JVM-based emulator for Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-07-27T16:00:41Z",
+            "owner": "steveniemitz",
+            "repo": "littletable",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Emulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Janusgraph",
+          "description": "Open-source, distributed graph database that can use Bigtable as its storage layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-23T16:43:33Z",
+            "owner": "JanusGraph",
+            "repo": "janusgraph",
+            "stars": 5827
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoMesa",
+          "description": "Suite of tools for working with big geo-spatial data in a distributed fashion, that can leverage Bigtable as its backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T14:11:45Z",
+            "owner": "locationtech",
+            "repo": "geomesa",
+            "stars": 1490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroic",
+          "description": "Scalable time series database based on Bigtable, Cassandra, and Elasticsearch.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-03-26T19:35:27Z",
+            "owner": "spotify",
+            "repo": "heroic",
+            "stars": 846
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GeoWave",
+          "description": "Tool that provides geospatial and temporal indexing on top of Accumulo, HBase, Bigtable, Cassandra, and DynamoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-29T18:22:06Z",
+            "owner": "locationtech",
+            "repo": "geowave",
+            "stars": 527
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HGraphDB",
+          "description": "Client layer for using HBase (Bigtable) as a graph database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-29T20:42:49Z",
+            "owner": "rayokota",
+            "repo": "hgraphdb",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTSDB",
+          "description": "An Open Source Time Series Data Base that can levearge Bigtable as its storage layer.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-05-01T17:58:37Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "opentsdb-bigtable",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YildizDB",
+          "description": "Graph database layer on top of Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T14:50:12Z",
+            "owner": "yildizdb",
+            "repo": "yildiz",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cattle DB",
+          "description": "Timeseries store built on top of Bigtable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-24T07:04:33Z",
+            "owner": "wuttem",
+            "repo": "cattledb",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Databases"
+    },
+    {
+      "description": "A curated list of resources to help you get off the ground with Bigtable.",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "A list of cool things related to Bigtable.",
+      "items": [],
+      "title": "Cool Stuff"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tera",
+          "description": "High performance distributed NoSQL database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-06-05T12:31:05Z",
+            "owner": "baidu",
+            "repo": "tera",
+            "stars": 1902
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apache Accumulo",
+          "description": "Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T12:27:31Z",
+            "owner": "apache",
+            "repo": "accumulo",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "obigstore",
+          "description": "Database with Bigtable-like data model atop LevelDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2017-09-26T11:45:41Z",
+            "owner": "mfp",
+            "repo": "obigstore",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Inspired by Bigtable"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bigtable Autoscaler",
+          "description": "Service that autoscales Bigtable clusters based on CPU load.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-02-16T00:55:46Z",
+            "owner": "spotify",
+            "repo": "bigtable-autoscaler",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YildizDB Bigtable",
+          "description": "TypeScript Bigtable Client with 🔋🔋 included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-03T17:40:50Z",
+            "owner": "yildizdb",
+            "repo": "bigtable",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Interesting Projects"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:42:09.759Z",
+    "original_repository": "zrosenbauer/awesome-bigtable",
+    "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
+    "enhanced_repository": "enhansome/enhansome-bigtable",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bigtable with stars"
+  }
+}
