@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T21:07:14Z",
             "owner": "googleapis",
             "repo": "google-cloud-go",
-            "stars": 4494
+            "stars": 4495
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T17:39:39Z",
+            "last_commit": "2026-08-15T20:35:35Z",
             "owner": "googleapis",
             "repo": "google-cloud-cpp",
             "stars": 657
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:22:47.844Z",
+    "last_updated": "2026-08-15T21:18:37.921Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
     "enhanced_repository": "enhansome/enhansome-bigtable",
