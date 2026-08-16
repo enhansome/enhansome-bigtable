@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T20:35:35Z",
+            "last_commit": "2026-08-16T20:50:14Z",
             "owner": "googleapis",
             "repo": "google-cloud-cpp",
             "stars": 657
@@ -233,7 +233,7 @@
             "last_commit": "2026-07-23T16:43:33Z",
             "owner": "JanusGraph",
             "repo": "janusgraph",
-            "stars": 5828
+            "stars": 5829
           }
         },
         {
@@ -375,7 +375,7 @@
             "last_commit": "2026-08-11T12:27:31Z",
             "owner": "apache",
             "repo": "accumulo",
-            "stars": 1159
+            "stars": 1160
           }
         },
         {
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:18:37.921Z",
+    "last_updated": "2026-08-16T21:17:38.180Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
     "enhanced_repository": "enhansome/enhansome-bigtable",
