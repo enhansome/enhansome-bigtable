@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T13:39:51Z",
+            "last_commit": "2026-08-18T20:37:40Z",
             "owner": "googleapis",
             "repo": "google-cloud-go",
-            "stars": 4495
+            "stars": 4496
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T20:07:12Z",
+            "last_commit": "2026-08-18T20:38:05Z",
             "owner": "googleapis",
             "repo": "google-cloud-dotnet",
-            "stars": 1090
+            "stars": 1089
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T20:16:21Z",
+            "last_commit": "2026-08-18T16:56:09Z",
             "owner": "googleapis",
             "repo": "google-cloud-cpp",
             "stars": 658
@@ -58,7 +58,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:36:40Z",
+            "last_commit": "2026-08-18T15:35:01Z",
             "owner": "googleapis",
             "repo": "java-bigtable-hbase",
             "stars": 184
@@ -244,7 +244,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-17T14:45:41Z",
+            "last_commit": "2026-08-18T18:50:49Z",
             "owner": "locationtech",
             "repo": "geomesa",
             "stars": 1492
@@ -372,7 +372,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T18:00:08Z",
+            "last_commit": "2026-08-18T19:01:06Z",
             "owner": "apache",
             "repo": "accumulo",
             "stars": 1160
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:23:38.367Z",
+    "last_updated": "2026-08-18T21:21:35.202Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
     "enhanced_repository": "enhansome/enhansome-bigtable",
