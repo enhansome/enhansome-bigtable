@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-22T19:05:20Z",
+                "last_commit": "2026-08-24T14:41:51Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4497
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 35877412,
                 "language": "C#",
-                "last_commit": "2026-08-21T18:49:01Z",
+                "last_commit": "2026-08-24T09:09:32Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1091
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:58:49Z",
+                "last_commit": "2026-08-24T14:35:43Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -186,6 +186,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "btcli",
+              "description": "CLI client for the Bigtable with auto-completion.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125171149,
+                "language": "Go",
+                "last_commit": "2023-02-25T02:01:25Z",
+                "owner": "takashabe",
+                "repo": "btcli",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Command-line"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vscode-bigtable",
+              "description": "VSCode extension that provides an easy to use GUI for querying bigtable instances.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 377305229,
+                "language": "TypeScript",
+                "last_commit": "2022-05-26T13:09:15Z",
+                "owner": "a7ul",
+                "repo": "vscode-bigtable",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GUI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Spotify Docker Bigtable",
               "description": "Docker container with an in memory implementation of Google Cloud Bigtable.",
               "children": [],
@@ -260,7 +304,7 @@
                 "archived": false,
                 "id": 13226069,
                 "language": "Scala",
-                "last_commit": "2026-08-21T14:44:10Z",
+                "last_commit": "2026-08-24T14:16:26Z",
                 "owner": "locationtech",
                 "repo": "geomesa",
                 "stars": 1494
@@ -293,7 +337,7 @@
                 "last_commit": "2025-09-29T18:22:06Z",
                 "owner": "locationtech",
                 "repo": "geowave",
-                "stars": 527
+                "stars": 528
               }
             },
             {
@@ -396,7 +440,7 @@
                 "last_commit": "2026-08-18T19:01:06Z",
                 "owner": "apache",
                 "repo": "accumulo",
-                "stars": 1160
+                "stars": 1162
               }
             },
             {
@@ -461,7 +505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:19:08.204Z",
+    "last_updated": "2026-08-24T14:47:53.738Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_id": 166608066,
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
