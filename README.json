@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:41:51Z",
+                "last_commit": "2026-08-24T20:47:18Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4497
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 35877412,
                 "language": "C#",
-                "last_commit": "2026-08-24T09:09:32Z",
+                "last_commit": "2026-08-24T21:06:49Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1091
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-24T14:35:43Z",
+                "last_commit": "2026-08-24T21:23:12Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 13226069,
                 "language": "Scala",
-                "last_commit": "2026-08-24T14:16:26Z",
+                "last_commit": "2026-08-24T17:15:12Z",
                 "owner": "locationtech",
                 "repo": "geomesa",
                 "stars": 1494
@@ -437,7 +437,7 @@
                 "archived": false,
                 "id": 2524488,
                 "language": "Java",
-                "last_commit": "2026-08-18T19:01:06Z",
+                "last_commit": "2026-08-24T18:29:29Z",
                 "owner": "apache",
                 "repo": "accumulo",
                 "stars": 1162
@@ -505,7 +505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:47:53.738Z",
+    "last_updated": "2026-08-24T21:26:02.497Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_id": 166608066,
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
