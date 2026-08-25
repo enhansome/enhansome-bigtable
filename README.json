@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-24T20:47:18Z",
+                "last_commit": "2026-08-24T22:32:53Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4497
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 35877412,
                 "language": "C#",
-                "last_commit": "2026-08-24T21:06:49Z",
+                "last_commit": "2026-08-24T22:36:42Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1091
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-24T21:23:12Z",
+                "last_commit": "2026-08-25T06:38:47Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 114799901,
                 "language": "PHP",
-                "last_commit": "2026-08-10T16:48:10Z",
+                "last_commit": "2026-08-24T22:11:30Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-php-bigtable",
                 "stars": 13
@@ -505,7 +505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:26:02.497Z",
+    "last_updated": "2026-08-25T06:39:51.632Z",
     "original_repository": "zrosenbauer/awesome-bigtable",
     "original_repository_id": 166608066,
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",

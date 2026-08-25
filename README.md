@@ -42,15 +42,15 @@ A curated list of tools that will help you when working with or building on-top 
 
 ### Official Client Libraries
 
-* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,497 | 🐛 425 | 🌐 Go | 📅 2026-08-24 - Official implementation of the Google Cloud Bigtable Go client.
+* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,497 | 🐛 427 | 🌐 Go | 📅 2026-08-24 - Official implementation of the Google Cloud Bigtable Go client.
 * [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,091 | 🐛 16 | 🌐 C# | 📅 2026-08-24 - Official implementation of the Google Cloud Bigtable .NET client.
-* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 659 | 🐛 204 | 🌐 C++ | 📅 2026-08-24 - Official implementation of the Google Cloud Bigtable C++ client.
+* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 659 | 🐛 203 | 🌐 C++ | 📅 2026-08-25 - Official implementation of the Google Cloud Bigtable C++ client.
 * [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) ⭐ 184 | 🐛 210 | 🌐 Java | 📅 2026-08-18 - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 * [Node.js](https://github.com/googleapis/nodejs-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Node.js client.
 * [Java](https://github.com/googleapis/java-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Java client.
 * [Python](https://github.com/googleapis/python-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable python client.
 * [HappyBase](https://github.com/googleapis/google-cloud-python-happybase) ⚠️ Archived - Official client which uses a HappyBase emulation layer which uses Bigtable as the underlying storage layer.
-* [PHP](https://github.com/googleapis/google-cloud-php-bigtable) ⭐ 13 | 🐛 1 | 🌐 PHP | 📅 2026-08-10 - Official implementation of the Google Cloud Bigtable PHP client.
+* [PHP](https://github.com/googleapis/google-cloud-php-bigtable) ⭐ 13 | 🐛 1 | 🌐 PHP | 📅 2026-08-24 - Official implementation of the Google Cloud Bigtable PHP client.
 
 ### Other Client Libraries
 
@@ -141,4 +141,4 @@ If your package or repository is mentioned in this list feel free to add the Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
