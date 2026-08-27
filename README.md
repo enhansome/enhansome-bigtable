@@ -42,8 +42,8 @@ A curated list of tools that will help you when working with or building on-top 
 
 ### Official Client Libraries
 
-* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,499 | 🐛 429 | 🌐 Go | 📅 2026-08-26 - Official implementation of the Google Cloud Bigtable Go client.
-* [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,091 | 🐛 18 | 🌐 C# | 📅 2026-08-26 - Official implementation of the Google Cloud Bigtable .NET client.
+* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,499 | 🐛 429 | 🌐 Go | 📅 2026-08-27 - Official implementation of the Google Cloud Bigtable Go client.
+* [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,092 | 🐛 18 | 🌐 C# | 📅 2026-08-26 - Official implementation of the Google Cloud Bigtable .NET client.
 * [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 659 | 🐛 207 | 🌐 C++ | 📅 2026-08-27 - Official implementation of the Google Cloud Bigtable C++ client.
 * [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) ⭐ 184 | 🐛 210 | 🌐 Java | 📅 2026-08-18 - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 * [Node.js](https://github.com/googleapis/nodejs-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Node.js client.

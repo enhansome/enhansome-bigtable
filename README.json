@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-26T23:36:34Z",
+                "last_commit": "2026-08-27T00:56:44Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4499
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-26T16:12:39Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
-                "stars": 1091
+                "stars": 1092
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T00:00:04Z",
+                "last_commit": "2026-08-27T09:52:35Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
@@ -505,9 +505,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:26:36.798Z",
-    "original_repository": "zrosenbauer/awesome-bigtable",
-    "original_repository_id": 166608066,
+    "last_updated": "2026-08-27T11:26:27.843Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 166608066,
+      "language": null,
+      "last_commit": "2022-09-19T23:53:36Z",
+      "owner": "zrosenbauer",
+      "repo": "awesome-bigtable",
+      "stars": 56
+    },
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
     "enhanced_repository": "enhansome/enhansome-bigtable",
     "enhanced_repository_description": null,
