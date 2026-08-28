@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-27T00:56:44Z",
+                "last_commit": "2026-08-27T21:52:02Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4499
-              }
+                "stars": 4498
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 35877412,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:12:39Z",
+                "last_commit": "2026-08-27T21:41:05Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1092
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -44,11 +46,12 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T09:52:35Z",
+                "last_commit": "2026-08-27T23:31:58Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "googleapis",
                 "repo": "java-bigtable-hbase",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "googleapis",
                 "repo": "nodejs-bigtable",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "googleapis",
                 "repo": "java-bigtable",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "googleapis",
                 "repo": "python-bigtable",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "googleapis",
                 "repo": "google-cloud-python-happybase",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "googleapis",
                 "repo": "google-cloud-php-bigtable",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -160,7 +169,8 @@
                 "owner": "durch",
                 "repo": "rust-bigtable",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "OpenTSDB",
                 "repo": "asyncbigtable",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "takashabe",
                 "repo": "btcli",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -219,7 +231,8 @@
                 "owner": "a7ul",
                 "repo": "vscode-bigtable",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -241,7 +254,8 @@
                 "owner": "spotify",
                 "repo": "docker-bigtable",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "Shopify",
                 "repo": "bigtable-emulator",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -271,7 +286,8 @@
                 "owner": "steveniemitz",
                 "repo": "littletable",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -293,7 +309,8 @@
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
                 "stars": 5829
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -304,11 +321,12 @@
                 "archived": false,
                 "id": 13226069,
                 "language": "Scala",
-                "last_commit": "2026-08-26T16:43:28Z",
+                "last_commit": "2026-08-27T15:03:15Z",
                 "owner": "locationtech",
                 "repo": "geomesa",
                 "stars": 1494
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -323,7 +341,8 @@
                 "owner": "spotify",
                 "repo": "heroic",
                 "stars": 846
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -338,7 +357,8 @@
                 "owner": "locationtech",
                 "repo": "geowave",
                 "stars": 528
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -353,7 +373,8 @@
                 "owner": "rayokota",
                 "repo": "hgraphdb",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -368,7 +389,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "opentsdb-bigtable",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -383,7 +405,8 @@
                 "owner": "yildizdb",
                 "repo": "yildiz",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -398,7 +421,8 @@
                 "owner": "wuttem",
                 "repo": "cattledb",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -426,7 +450,8 @@
                 "owner": "baidu",
                 "repo": "tera",
                 "stars": 1902
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -441,7 +466,8 @@
                 "owner": "apache",
                 "repo": "accumulo",
                 "stars": 1163
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -456,7 +482,8 @@
                 "owner": "mfp",
                 "repo": "obigstore",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": null,
@@ -478,7 +505,8 @@
                 "owner": "spotify",
                 "repo": "bigtable-autoscaler",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             },
             {
               "node_type": "item",
@@ -493,7 +521,8 @@
                 "owner": "yildizdb",
                 "repo": "bigtable",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T05:06:13.487Z"
             }
           ],
           "description": "Awesome mentioned badge\nIf your package or repository is mentioned in this list feel free to add the Awesome mentioned badge to your README.md.\nLogo Source: https://logomakr.com/4gLK5l",
@@ -505,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:27.843Z",
+    "last_updated": "2026-08-28T05:06:13.487Z",
     "original_repository_info": {
       "archived": false,
       "id": 166608066,
