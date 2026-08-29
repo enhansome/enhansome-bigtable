@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Cloud Client Libraries for Go.",
+                "homepage": "https://cloud.google.com/go/docs/reference",
                 "id": 19608522,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T22:17:26Z",
+                "open_issues": 423,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4500
+                "stars": 4500,
+                "topics": [
+                  "cloud-bigquery",
+                  "cloud-datastore",
+                  "cloud-pubsub",
+                  "cloud-storage",
+                  "go",
+                  "golang",
+                  "google-cloud"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -28,12 +41,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Google Cloud Client Libraries for .NET",
+                "homepage": "https://cloud.google.com/dotnet/docs/reference/",
                 "id": 35877412,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:35:35Z",
+                "open_issues": 18,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
-                "stars": 1093
+                "stars": 1093,
+                "topics": [
+                  "client-libraries",
+                  "dotnet",
+                  "google-cloud"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -44,12 +66,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ Client Libraries for Google Cloud Services",
+                "homepage": "https://cloud.google.com/",
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-29T02:56:29Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:52:32Z",
+                "open_issues": 201,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 660
+                "stars": 660,
+                "topics": [
+                  "bigtable",
+                  "cloud",
+                  "cpp",
+                  "cpp14",
+                  "cxx14",
+                  "gcp",
+                  "google",
+                  "google-cloud",
+                  "google-cloud-bigtable",
+                  "google-cloud-platform",
+                  "google-cloud-pubsub",
+                  "google-cloud-spanner",
+                  "google-cloud-storage",
+                  "spanner"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -60,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java libraries and HBase client extensions for accessing Google Cloud Bigtable",
+                "homepage": "https://cloud.google.com/bigtable/",
                 "id": 18442381,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T15:35:01Z",
+                "open_issues": 210,
                 "owner": "googleapis",
                 "repo": "java-bigtable-hbase",
-                "stars": 184
+                "stars": 184,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -76,12 +123,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Node.js client for Google Cloud Bigtable: Google's NoSQL Big Data database service.",
+                "homepage": "https://cloud.google.com/bigtable/",
                 "id": 98463312,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-26T16:19:10Z",
+                "open_issues": 99,
                 "owner": "googleapis",
                 "repo": "nodejs-bigtable",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "bigtable",
+                  "database",
+                  "nodejs",
+                  "nosql"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -92,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 203461401,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-08T18:20:49Z",
+                "open_issues": 0,
                 "owner": "googleapis",
                 "repo": "java-bigtable",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -108,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This library has moved to https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-bigtable",
+                "homepage": null,
                 "id": 226992487,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-01T00:00:31Z",
+                "open_issues": 0,
                 "owner": "googleapis",
                 "repo": "python-bigtable",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -124,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 65928773,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-19T03:19:38Z",
+                "open_issues": 11,
                 "owner": "googleapis",
                 "repo": "google-cloud-python-happybase",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -140,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 114799901,
                 "language": "PHP",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T22:11:30Z",
+                "open_issues": 1,
                 "owner": "googleapis",
                 "repo": "google-cloud-php-bigtable",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -163,12 +240,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust library for working with Google Bigtable Data API",
+                "homepage": null,
                 "id": 78246512,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-12-09T23:26:39Z",
+                "open_issues": 0,
                 "owner": "durch",
                 "repo": "rust-bigtable",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "bigtable",
+                  "google-bigtable",
+                  "rust-library"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -179,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of AsyncHBase but on top of Google's Cloud Bigtable service",
+                "homepage": null,
                 "id": 41087208,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-07-29T21:41:12Z",
+                "open_issues": 7,
                 "owner": "OpenTSDB",
                 "repo": "asyncbigtable",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -202,12 +293,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "btcli is a CLI client for the Bigtable. Has many read options and auto-completion.",
+                "homepage": null,
                 "id": 125171149,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-02-25T02:01:25Z",
+                "open_issues": 4,
                 "owner": "takashabe",
                 "repo": "btcli",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "bigtable",
+                  "cli",
+                  "gcp",
+                  "go",
+                  "golang",
+                  "google-cloud-platform"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -225,12 +328,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vscode client for bigtable",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=a7ul.vscode-bigtable&ssr=false#review-details",
                 "id": 377305229,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-05-26T13:09:15Z",
+                "open_issues": 0,
                 "owner": "a7ul",
                 "repo": "vscode-bigtable",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "bigtable",
+                  "client",
+                  "editor",
+                  "gui",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -248,12 +362,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A docker container with an in memory implementation of Google Cloud Bigtable",
+                "homepage": null,
                 "id": 58952280,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-11T00:33:21Z",
+                "open_issues": 2,
                 "owner": "spotify",
                 "repo": "docker-bigtable",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -264,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 109839703,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-19T11:44:55Z",
+                "open_issues": 6,
                 "owner": "Shopify",
                 "repo": "bigtable-emulator",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -280,12 +404,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In-memory JVM-based Bigtable emulator",
+                "homepage": null,
                 "id": 167598558,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-27T16:00:41Z",
+                "open_issues": 3,
                 "owner": "steveniemitz",
                 "repo": "littletable",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -303,12 +432,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JanusGraph: an open-source, distributed graph database",
+                "homepage": "https://janusgraph.org",
                 "id": 77385607,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-18T22:22:05Z",
+                "open_issues": 598,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5829
+                "stars": 5829,
+                "topics": [
+                  "bigtable",
+                  "cassandra",
+                  "elasticsearch",
+                  "graph",
+                  "graph-database",
+                  "graphdb",
+                  "gremlin",
+                  "hbase",
+                  "solr",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -319,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+                "homepage": "https://www.geomesa.org/",
                 "id": 13226069,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:09:07Z",
+                "open_issues": 200,
                 "owner": "locationtech",
                 "repo": "geomesa",
-                "stars": 1494
+                "stars": 1494,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -335,12 +485,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Heroic Time Series Database",
+                "homepage": "https://spotify.github.io/heroic/",
                 "id": 36483902,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-26T19:35:27Z",
+                "open_issues": 70,
                 "owner": "spotify",
                 "repo": "heroic",
-                "stars": 846
+                "stars": 846,
+                "topics": [
+                  "cassandra",
+                  "elasticsearch",
+                  "google-bigtable",
+                  "google-pubsub",
+                  "ha",
+                  "java",
+                  "monitoring",
+                  "time-series",
+                  "tsdb"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -351,12 +516,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GeoWave provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, Kudu, Redis, RocksDB, and DynamoDB.",
+                "homepage": null,
                 "id": 20448696,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-29T18:22:06Z",
+                "open_issues": 91,
                 "owner": "locationtech",
                 "repo": "geowave",
-                "stars": 528
+                "stars": 528,
+                "topics": [
+                  "accumulo",
+                  "cassandra",
+                  "dynamodb",
+                  "geoserver",
+                  "geospatial-data",
+                  "geowave",
+                  "hbase",
+                  "java",
+                  "kudu",
+                  "redis",
+                  "rocksdb",
+                  "spatiotemporal"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -367,12 +550,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HBase as a TinkerPop Graph Database",
+                "homepage": null,
                 "id": 73235061,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-29T20:42:49Z",
+                "open_issues": 12,
                 "owner": "rayokota",
                 "repo": "hgraphdb",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "graph-database",
+                  "hbase",
+                  "tinkerpop"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -383,12 +575,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 98666220,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-01T17:58:37Z",
+                "open_issues": 11,
                 "owner": "GoogleCloudPlatform",
                 "repo": "opentsdb-bigtable",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -399,12 +596,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":unicorn::star2: Graph Database layer on top of Google Bigtable",
+                "homepage": null,
                 "id": 106202793,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-10T14:50:12Z",
+                "open_issues": 13,
                 "owner": "yildizdb",
                 "repo": "yildiz",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "big-data",
+                  "bigtable",
+                  "database",
+                  "edges",
+                  "event-relation",
+                  "graph",
+                  "graph-database",
+                  "hyper-relational",
+                  "nodejs",
+                  "nodes",
+                  "yildiz"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -415,12 +629,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Timeseries Store on BigTable",
+                "homepage": null,
                 "id": 125924573,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-11-24T07:04:33Z",
+                "open_issues": 1,
                 "owner": "wuttem",
                 "repo": "cattledb",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -444,12 +663,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Internet-Scale Database.",
+                "homepage": null,
                 "id": 18129915,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-05T12:31:05Z",
+                "open_issues": 172,
                 "owner": "baidu",
                 "repo": "tera",
-                "stars": 1902
+                "stars": 1902,
+                "topics": [
+                  "baidu",
+                  "bigtable",
+                  "c-plus-plus",
+                  "data",
+                  "database",
+                  "hbase",
+                  "nosql",
+                  "storage"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -460,12 +693,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache Accumulo",
+                "homepage": "https://accumulo.apache.org",
                 "id": 2524488,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:54:00Z",
+                "open_issues": 335,
                 "owner": "apache",
                 "repo": "accumulo",
-                "stars": 1163
+                "stars": 1163,
+                "topics": [
+                  "accumulo",
+                  "big-data",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -476,12 +718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "obigstore: database with BigTable-like data model atop LevelDB",
+                "homepage": null,
                 "id": 4595938,
                 "language": "OCaml",
+                "license": "NOASSERTION",
                 "last_commit": "2017-09-26T11:45:41Z",
+                "open_issues": 0,
                 "owner": "mfp",
                 "repo": "obigstore",
-                "stars": 44
+                "stars": 44,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -499,12 +746,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A service that autoscales Bigtable clusters based on CPU load",
+                "homepage": null,
                 "id": 147797791,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-16T00:55:46Z",
+                "open_issues": 17,
                 "owner": "spotify",
                 "repo": "bigtable-autoscaler",
-                "stars": 72
+                "stars": 72,
+                "topics": [
+                  "bigtable",
+                  "google-cloud"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -515,12 +770,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TypeScript Bigtable Client with :battery::battery: included.",
+                "homepage": null,
                 "id": 138584092,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-03T17:40:50Z",
+                "open_issues": 10,
                 "owner": "yildizdb",
                 "repo": "bigtable",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "big-data",
+                  "bigtable",
+                  "google",
+                  "google-cloud",
+                  "hbase",
+                  "key-value",
+                  "nodejs",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             }
@@ -534,15 +803,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:04:38.745Z",
+    "last_updated": "2026-08-29T05:06:14.543Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
+      "homepage": null,
       "id": 166608066,
       "language": null,
+      "license": "MIT",
       "last_commit": "2022-09-19T23:53:36Z",
+      "open_issues": 1,
       "owner": "zrosenbauer",
       "repo": "awesome-bigtable",
-      "stars": 56
+      "stars": 56,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bigtable",
+        "google-bigtable",
+        "google-cloud-platform"
+      ]
     },
     "original_repository_sha": "144aef919a94484c838e35507b786de501c278d6",
     "enhanced_repository": "enhansome/enhansome-bigtable",
