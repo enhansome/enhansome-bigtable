@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 19608522,
                 "language": "Go",
-                "last_commit": "2026-08-27T21:52:02Z",
+                "last_commit": "2026-08-28T22:17:26Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4498
+                "stars": 4500
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -30,10 +30,10 @@
                 "archived": false,
                 "id": 35877412,
                 "language": "C#",
-                "last_commit": "2026-08-27T21:41:05Z",
+                "last_commit": "2026-08-28T16:35:35Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
-                "stars": 1092
+                "stars": 1093
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -46,10 +46,10 @@
                 "archived": false,
                 "id": 111860063,
                 "language": "C++",
-                "last_commit": "2026-08-27T23:31:58Z",
+                "last_commit": "2026-08-29T02:56:29Z",
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 659
+                "stars": 660
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
             },
@@ -321,7 +321,7 @@
                 "archived": false,
                 "id": 13226069,
                 "language": "Scala",
-                "last_commit": "2026-08-27T15:03:15Z",
+                "last_commit": "2026-08-28T19:09:07Z",
                 "owner": "locationtech",
                 "repo": "geomesa",
                 "stars": 1494
@@ -462,7 +462,7 @@
                 "archived": false,
                 "id": 2524488,
                 "language": "Java",
-                "last_commit": "2026-08-25T19:12:50Z",
+                "last_commit": "2026-08-28T18:54:00Z",
                 "owner": "apache",
                 "repo": "accumulo",
                 "stars": 1163
@@ -534,7 +534,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:06:13.487Z",
+    "last_updated": "2026-08-29T03:04:38.745Z",
     "original_repository_info": {
       "archived": false,
       "id": 166608066,
