@@ -21,7 +21,7 @@
                 "open_issues": 424,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4500,
+                "stars": 4502,
                 "topics": [
                   "cloud-bigquery",
                   "cloud-datastore",
@@ -47,7 +47,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T18:08:02Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1093,
@@ -71,7 +71,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T22:12:39Z",
+                "last_commit": "2026-08-30T09:00:22Z",
                 "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -441,7 +441,7 @@
                 "open_issues": 598,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5829,
+                "stars": 5830,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -473,7 +473,7 @@
                 "open_issues": 200,
                 "owner": "locationtech",
                 "repo": "geomesa",
-                "stars": 1494,
+                "stars": 1495,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:06:13.487Z"
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:58:56.385Z",
+    "last_updated": "2026-08-30T23:09:55.823Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
