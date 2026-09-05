@@ -21,7 +21,7 @@
                 "open_issues": 426,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4505,
+                "stars": 4504,
                 "topics": [
                   "cloud-bigquery",
                   "cloud-datastore",
@@ -47,7 +47,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T16:17:04Z",
-                "open_issues": 19,
+                "open_issues": 20,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1094,
@@ -71,7 +71,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T20:36:25Z",
+                "last_commit": "2026-09-05T21:34:54Z",
                 "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -494,7 +494,7 @@
                 "open_issues": 70,
                 "owner": "spotify",
                 "repo": "heroic",
-                "stars": 846,
+                "stars": 845,
                 "topics": [
                   "cassandra",
                   "elasticsearch",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:46:25.629Z",
+    "last_updated": "2026-09-05T22:38:16.877Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
