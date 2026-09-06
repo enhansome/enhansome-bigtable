@@ -47,7 +47,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T16:17:04Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1094,
@@ -71,7 +71,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T21:34:54Z",
+                "last_commit": "2026-09-06T21:55:45Z",
                 "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -441,7 +441,7 @@
                 "open_issues": 598,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5832,
+                "stars": 5833,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:38:16.877Z",
+    "last_updated": "2026-09-06T22:41:08.364Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
