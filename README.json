@@ -17,11 +17,11 @@
                 "id": 19608522,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T20:14:21Z",
-                "open_issues": 426,
+                "last_commit": "2026-09-07T05:40:42Z",
+                "open_issues": 427,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4504,
+                "stars": 4505,
                 "topics": [
                   "cloud-bigquery",
                   "cloud-datastore",
@@ -46,8 +46,8 @@
                 "id": 35877412,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T16:17:04Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-07T19:13:04Z",
+                "open_issues": 21,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1094,
@@ -71,8 +71,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T21:55:45Z",
-                "open_issues": 202,
+                "last_commit": "2026-09-07T18:51:09Z",
+                "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 660,
@@ -441,7 +441,7 @@
                 "open_issues": 598,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5833,
+                "stars": 5834,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -559,7 +559,7 @@
                 "open_issues": 12,
                 "owner": "rayokota",
                 "repo": "hgraphdb",
-                "stars": 264,
+                "stars": 263,
                 "topics": [
                   "graph-database",
                   "hbase",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:41:08.364Z",
+    "last_updated": "2026-09-07T23:16:34.737Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
