@@ -18,7 +18,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T16:48:05Z",
-                "open_issues": 409,
+                "open_issues": 410,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4505,
@@ -71,7 +71,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T22:27:01Z",
+                "last_commit": "2026-09-12T21:37:15Z",
                 "open_issues": 204,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -699,7 +699,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T18:06:42Z",
-                "open_issues": 330,
+                "open_issues": 331,
                 "owner": "apache",
                 "repo": "accumulo",
                 "stars": 1169,
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:57:42.847Z",
+    "last_updated": "2026-09-12T22:49:57.336Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
