@@ -47,7 +47,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T22:26:40Z",
-                "open_issues": 16,
+                "open_issues": 17,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1094,
@@ -71,8 +71,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T21:37:15Z",
-                "open_issues": 204,
+                "last_commit": "2026-09-13T18:10:53Z",
+                "open_issues": 202,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -437,11 +437,11 @@
                 "id": 77385607,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-18T22:22:05Z",
-                "open_issues": 598,
+                "last_commit": "2026-09-13T21:38:13Z",
+                "open_issues": 599,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5836,
+                "stars": 5835,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -525,7 +525,7 @@
                 "open_issues": 91,
                 "owner": "locationtech",
                 "repo": "geowave",
-                "stars": 528,
+                "stars": 527,
                 "topics": [
                   "accumulo",
                   "cassandra",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:49:57.336Z",
+    "last_updated": "2026-09-13T22:51:45.087Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
