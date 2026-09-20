@@ -17,8 +17,8 @@
                 "id": 19608522,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T17:02:03Z",
-                "open_issues": 421,
+                "last_commit": "2026-09-20T13:29:37Z",
+                "open_issues": 422,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4504,
@@ -71,8 +71,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T22:34:18Z",
-                "open_issues": 197,
+                "last_commit": "2026-09-20T22:20:05Z",
+                "open_issues": 199,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 659,
@@ -521,7 +521,7 @@
                 "id": 20448696,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T17:27:53Z",
+                "last_commit": "2026-09-20T13:25:52Z",
                 "open_issues": 92,
                 "owner": "locationtech",
                 "repo": "geowave",
@@ -702,7 +702,7 @@
                 "open_issues": 337,
                 "owner": "apache",
                 "repo": "accumulo",
-                "stars": 1170,
+                "stars": 1171,
                 "topics": [
                   "accumulo",
                   "big-data",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T22:39:35.853Z",
+    "last_updated": "2026-09-20T22:58:12.757Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
