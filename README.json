@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T20:28:08Z",
-                "open_issues": 387,
+                "open_issues": 388,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4506,
+                "stars": 4507,
                 "topics": [
                   "cloud-bigquery",
                   "cloud-datastore",
@@ -50,7 +50,7 @@
                 "open_issues": 14,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
-                "stars": 1094,
+                "stars": 1095,
                 "topics": [
                   "client-libraries",
                   "dotnet",
@@ -71,11 +71,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T03:26:23Z",
+                "last_commit": "2026-10-03T23:08:51Z",
                 "open_issues": 203,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 658,
+                "stars": 659,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -437,7 +437,7 @@
                 "id": 77385607,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T21:23:40Z",
+                "last_commit": "2026-10-03T17:05:17Z",
                 "open_issues": 578,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:11.612Z",
+    "last_updated": "2026-10-03T23:30:37.643Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
