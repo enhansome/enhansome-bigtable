@@ -18,7 +18,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T20:53:54Z",
-                "open_issues": 393,
+                "open_issues": 394,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
                 "stars": 4520,
@@ -47,7 +47,7 @@
                 "language": "C#",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T16:22:31Z",
-                "open_issues": 14,
+                "open_issues": 16,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
                 "stars": 1094,
@@ -71,7 +71,7 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-17T22:47:22Z",
+                "last_commit": "2026-10-18T21:29:11Z",
                 "open_issues": 198,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
@@ -438,10 +438,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-17T15:19:59Z",
-                "open_issues": 601,
+                "open_issues": 602,
                 "owner": "JanusGraph",
                 "repo": "janusgraph",
-                "stars": 5857,
+                "stars": 5858,
                 "topics": [
                   "bigtable",
                   "cassandra",
@@ -702,7 +702,7 @@
                 "open_issues": 348,
                 "owner": "apache",
                 "repo": "accumulo",
-                "stars": 1177,
+                "stars": 1178,
                 "topics": [
                   "accumulo",
                   "big-data",
@@ -803,7 +803,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:52:58.855Z",
+    "last_updated": "2026-10-18T22:45:54.067Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
