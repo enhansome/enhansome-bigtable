@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-30T21:12:41Z",
-                "open_issues": 408,
+                "open_issues": 410,
                 "owner": "googleapis",
                 "repo": "google-cloud-go",
-                "stars": 4541,
+                "stars": 4544,
                 "topics": [
                   "cloud-bigquery",
                   "cloud-datastore",
@@ -71,11 +71,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T23:48:32Z",
+                "last_commit": "2026-10-31T23:32:53Z",
                 "open_issues": 211,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 660,
+                "stars": 661,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:21:44.078Z",
+    "last_updated": "2026-10-31T23:56:24.459Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
