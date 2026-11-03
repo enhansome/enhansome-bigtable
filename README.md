@@ -42,10 +42,10 @@ A curated list of tools that will help you when working with or building on-top 
 
 ### Official Client Libraries
 
-* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,545 | 🐛 411 | 🌐 Go | 📅 2026-11-01 - Official implementation of the Google Cloud Bigtable Go client.
-* [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,096 | 🐛 32 | 🌐 C# | 📅 2026-10-30 - Official implementation of the Google Cloud Bigtable .NET client.
-* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 662 | 🐛 211 | 🌐 C++ | 📅 2026-11-01 - Official implementation of the Google Cloud Bigtable C++ client.
-* [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) ⭐ 185 | 🐛 213 | 🌐 Java | 📅 2026-10-28 - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
+* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,550 | 🐛 416 | 🌐 Go | 📅 2026-11-02 - Official implementation of the Google Cloud Bigtable Go client.
+* [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,097 | 🐛 31 | 🌐 C# | 📅 2026-11-03 - Official implementation of the Google Cloud Bigtable .NET client.
+* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 661 | 🐛 217 | 🌐 C++ | 📅 2026-11-02 - Official implementation of the Google Cloud Bigtable C++ client.
+* [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) ⭐ 184 | 🐛 213 | 🌐 Java | 📅 2026-10-28 - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 * [Node.js](https://github.com/googleapis/nodejs-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Node.js client.
 * [Java](https://github.com/googleapis/java-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Java client.
 * [Python](https://github.com/googleapis/python-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable python client.
@@ -76,9 +76,9 @@ A curated list of tools that will help you when working with or building on-top 
 ### Databases
 
 * [Janusgraph](https://github.com/JanusGraph/janusgraph) ⭐ 5,862 | 🐛 582 | 🌐 Java | 📅 2026-10-28 - Open-source, distributed graph database that can use Bigtable as its storage layer.
-* [GeoMesa](https://github.com/locationtech/geomesa) ⭐ 1,499 | 🐛 191 | 🌐 Scala | 📅 2026-10-30 - Suite of tools for working with big geo-spatial data in a distributed fashion, that can leverage Bigtable as its backend.
+* [GeoMesa](https://github.com/locationtech/geomesa) ⭐ 1,499 | 🐛 190 | 🌐 Scala | 📅 2026-11-02 - Suite of tools for working with big geo-spatial data in a distributed fashion, that can leverage Bigtable as its backend.
 * [Heroic](https://github.com/spotify/heroic) ⚠️ Archived - Scalable time series database based on Bigtable, Cassandra, and Elasticsearch.
-* [GeoWave](https://github.com/locationtech/geowave) ⭐ 527 | 🐛 84 | 🌐 Java | 📅 2026-10-26 - Tool that provides geospatial and temporal indexing on top of Accumulo, HBase, Bigtable, Cassandra, and DynamoDB.
+* [GeoWave](https://github.com/locationtech/geowave) ⭐ 527 | 🐛 78 | 🌐 Java | 📅 2026-11-02 - Tool that provides geospatial and temporal indexing on top of Accumulo, HBase, Bigtable, Cassandra, and DynamoDB.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) ⭐ 263 | 🐛 12 | 🌐 Java | 📅 2026-04-29 - Client layer for using HBase (Bigtable) as a graph database.
 * [OpenTSDB](https://github.com/GoogleCloudPlatform/opentsdb-bigtable) ⚠️ Archived - An Open Source Time Series Data Base that can levearge Bigtable as its storage layer.
 * [YildizDB](https://github.com/yildizdb/yildiz) ⭐ 26 | 🐛 13 | 🌐 TypeScript | 📅 2022-12-10 - Graph database layer on top of Bigtable.
@@ -105,7 +105,7 @@ A curated list of resources to help you get off the ground with Bigtable.
 ### Tutorials
 
 * [Google Tutorials for Bigtable](https://cloud.google.com/bigtable/docs/tutorials) - List of official tutorials related to Bigtable.
-* [Cloud Bigtable Examples](https://github.com/GoogleCloudPlatform/cloud-bigtable-examples) ⭐ 237 | 🐛 14 | 🌐 Java | 📅 2026-03-25 - Repo containing official examples of using Bigtable.
+* [Cloud Bigtable Examples](https://github.com/GoogleCloudPlatform/cloud-bigtable-examples) ⭐ 236 | 🐛 14 | 🌐 Java | 📅 2026-03-25 - Repo containing official examples of using Bigtable.
 * [Introduction to Google Cloud Bigtable](https://cloudacademy.com/course/introduction-to-google-cloud-bigtable/) - CloudAcademy provided intro tutorial to Bigtable (membership required).
 
 ## Cool Stuff
@@ -115,7 +115,7 @@ A list of cool things related to Bigtable.
 ### Inspired by Bigtable
 
 * [Tera](https://github.com/baidu/tera) ⭐ 1,905 | 🐛 172 | 🌐 C++ | 📅 2024-06-05 - High performance distributed NoSQL database.
-* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,182 | 🐛 356 | 🌐 Java | 📅 2026-10-30 - Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.
+* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,182 | 🐛 357 | 🌐 Java | 📅 2026-10-30 - Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.
 * [obigstore](https://github.com/mfp/obigstore) ⭐ 44 | 🐛 0 | 🌐 OCaml | 📅 2017-09-26 - Database with Bigtable-like data model atop LevelDB.
 * [Apache Cassandra](http://cassandra.apache.org/) - Highly-scalable partitioned row store.
 * [Apache HBase](https://hbase.apache.org/) - The Hadoop database, a distributed, scalable, big data store.
@@ -141,4 +141,4 @@ If your package or repository is mentioned in this list feel free to add the Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
