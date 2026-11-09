@@ -71,8 +71,8 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-07T20:41:00Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-08T23:46:25Z",
+                "open_issues": 222,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
                 "stars": 661,
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:11:01.045Z",
+    "last_updated": "2026-11-09T00:32:17.180Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
