@@ -50,7 +50,7 @@
                 "open_issues": 33,
                 "owner": "googleapis",
                 "repo": "google-cloud-dotnet",
-                "stars": 1099,
+                "stars": 1100,
                 "topics": [
                   "client-libraries",
                   "dotnet",
@@ -71,11 +71,11 @@
                 "id": 111860063,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-15T00:26:00Z",
+                "last_commit": "2026-11-15T23:44:52Z",
                 "open_issues": 219,
                 "owner": "googleapis",
                 "repo": "google-cloud-cpp",
-                "stars": 662,
+                "stars": 663,
                 "topics": [
                   "bigtable",
                   "cloud",
@@ -802,7 +802,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:45:22.058Z",
+    "last_updated": "2026-11-16T00:45:30.787Z",
     "original_repository_info": {
       "archived": false,
       "description": ":zap: Delightful list of Google Bigtable resources, packages and interesting finds.",
