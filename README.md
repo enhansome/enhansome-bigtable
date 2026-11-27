@@ -42,9 +42,9 @@ A curated list of tools that will help you when working with or building on-top 
 
 ### Official Client Libraries
 
-* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,557 | 🐛 436 | 🌐 Go | 📅 2026-11-25 - Official implementation of the Google Cloud Bigtable Go client.
+* [Go](https://github.com/googleapis/google-cloud-go/tree/master/bigtable) ⭐ 4,557 | 🐛 444 | 🌐 Go | 📅 2026-11-26 - Official implementation of the Google Cloud Bigtable Go client.
 * [C#](https://github.com/googleapis/google-cloud-dotnet) ⭐ 1,098 | 🐛 38 | 🌐 C# | 📅 2026-11-25 - Official implementation of the Google Cloud Bigtable .NET client.
-* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 663 | 🐛 219 | 🌐 C++ | 📅 2026-11-26 - Official implementation of the Google Cloud Bigtable C++ client.
+* [C++](https://github.com/GoogleCloudPlatform/google-cloud-cpp/tree/master/google/cloud/bigtable) ⭐ 663 | 🐛 223 | 🌐 C++ | 📅 2026-11-27 - Official implementation of the Google Cloud Bigtable C++ client.
 * [HBase Java](https://github.com/GoogleCloudPlatform/cloud-bigtable-client) ⭐ 184 | 🐛 215 | 🌐 Java | 📅 2026-11-25 - Official Java libraries and HBase client extensions for accessing Google Cloud Bigtable.
 * [Node.js](https://github.com/googleapis/nodejs-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Node.js client.
 * [Java](https://github.com/googleapis/java-bigtable) ⚠️ Archived - Official implementation of the Google Cloud Bigtable Java client.
@@ -115,7 +115,7 @@ A list of cool things related to Bigtable.
 ### Inspired by Bigtable
 
 * [Tera](https://github.com/baidu/tera) ⭐ 1,904 | 🐛 172 | 🌐 C++ | 📅 2024-06-05 - High performance distributed NoSQL database.
-* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,185 | 🐛 343 | 🌐 Java | 📅 2026-11-25 - Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.
+* [Apache Accumulo](https://github.com/apache/accumulo) ⭐ 1,186 | 🐛 343 | 🌐 Java | 📅 2026-11-25 - Sorted, distributed key/value store that provides robust, scalable data storage and retrieval.
 * [obigstore](https://github.com/mfp/obigstore) ⭐ 44 | 🐛 0 | 🌐 OCaml | 📅 2017-09-26 - Database with Bigtable-like data model atop LevelDB.
 * [Apache Cassandra](http://cassandra.apache.org/) - Highly-scalable partitioned row store.
 * [Apache HBase](https://hbase.apache.org/) - The Hadoop database, a distributed, scalable, big data store.
@@ -141,4 +141,4 @@ If your package or repository is mentioned in this list feel free to add the Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
